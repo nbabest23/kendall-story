@@ -1,0 +1,20 @@
+body {
+    background-color: #FFA319;
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: 1.5em;
+}
+
+img {
+    width: 100%;
+}
+
+
+a{color: #8D99AE;
+text-decoration: none;}
+
+div {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 30px;
+}
